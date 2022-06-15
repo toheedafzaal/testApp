@@ -12,3 +12,4 @@ C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\VimeoTestApp\testApplica
 C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\VimeoTestApp\testApplication\obj\Debug\testApplication.TrustInfo.xml
 C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\VimeoTestApp\testApplication\obj\Debug\testApplication.exe.manifest
 C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\VimeoTestApp\testApplication\obj\Debug\testApplication.application
+C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\VimeoTestApp\testApplication\obj\Debug\testApplication.csproj.AssemblyReference.cache
