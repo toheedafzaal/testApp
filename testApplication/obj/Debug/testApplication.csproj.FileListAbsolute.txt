@@ -1,7 +1,6 @@
 C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\VimeoTestApp\testApplication\bin\Debug\testApplication.exe.config
 C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\VimeoTestApp\testApplication\bin\Debug\testApplication.exe
 C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\VimeoTestApp\testApplication\bin\Debug\testApplication.pdb
-C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\VimeoTestApp\testApplication\obj\Debug\testApplication.csproj.AssemblyReference.cache
 C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\VimeoTestApp\testApplication\obj\Debug\testApplication.Form1.resources
 C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\VimeoTestApp\testApplication\obj\Debug\testApplication.Properties.Resources.resources
 C:\Users\haier\Desktop\Dot NET core\Panacealogic Office\VimeoTestApp\testApplication\obj\Debug\testApplication.csproj.GenerateResource.cache
